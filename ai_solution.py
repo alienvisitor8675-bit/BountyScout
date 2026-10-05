@@ -1,3 +1,5 @@
+Here is the complete YAML code, properly formatted:
+
 ```yaml
 items:
   - title: Engine and game feel: movement, projectiles, physics and world destruction
